@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-natron",
+  "version": "0.1.0-beta.1",
+  "description": "ESLint Configuration for Natron",
+  "keywords": [
+    "eslint-config",
+    "natron"
+  ],
+  "homepage": "http://natronjs.com/",
+  "author": "Stefan Rumzucker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natronjs/eslint-config-natron.git"
+  },
+  "main": "default",
+  "license": "MIT"
+}

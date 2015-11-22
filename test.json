@@ -1,0 +1,6 @@
+{
+  "extends": "./default",
+  "env": {
+    "mocha": true
+  }
+}
